@@ -1,0 +1,55 @@
+body {
+  background-color: rgb(31, 30, 30);
+  color: white;
+}
+
+#apptitle {
+  border: 1px solid white;
+  font-size: 25px;
+  padding: 10px 10%;
+}
+
+#search {
+  background-color: rgb(31, 30, 30);
+  color: white;
+  border: none;
+  border-bottom: 1px solid white;
+}
+
+#news-articles {
+  list-style-type: none;
+}
+
+.card {
+  background-color: rgba(255, 255, 255, 0.13);
+  height: 500px;
+}
+
+.card:hover {
+  background-color: white;
+  color: black;
+}
+
+.article {
+  height: 500px;
+
+  margin-top: 10px;
+  margin-bottom: 10px;
+
+}
+
+.article-img {
+  height: 220px;
+}
+
+.article-title {
+  font-size: 18px;
+}
+
+.article-description {
+  font-size: 14px;
+}
+
+.article-author {
+  font-size: 12px;
+}
