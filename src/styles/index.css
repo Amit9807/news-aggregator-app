@@ -34,8 +34,8 @@ body {
   height: 500px;
   margin-top: 10px;
   margin-bottom: 10px;
-  -webkit-box-sizing: border-box;
-  box-sizing: border-box;
+  /* -webkit-box-sizing: border-box;
+  box-sizing: border-box; */
   transform: matrix(1, 0.01, 0.01, 0.99, 3, 3);
 }
 

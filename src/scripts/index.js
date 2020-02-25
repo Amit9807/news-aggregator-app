@@ -25,7 +25,6 @@ news.then((data)=>{
                     var urls = obj[i].url;
                     var image = obj[i].urlToImage;
     
-              
                     output +='<li class="article">'+
                         '<div class="card p-1" style="width: 15rem;display:none"><img src="'+image+'" class="article-img" alt="..."></div> '+ 
                         '<div class="card p-1" style="width: 15rem;"><img src="'+image+'" class="card-img-top article-img" alt="..."> '+
