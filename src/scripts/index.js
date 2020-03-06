@@ -50,7 +50,7 @@ function searchNews() {
 
     var query = document.getElementById('search').value;
     
-    const url = 'http://newsapi.org/v2/everything?q=' + query + '&apiKey=' + apikey;
+    const url = 'https://newsapi.org/v2/everything?q=' + query + '&apiKey=' + apikey;
     
     fetch(url)
     .then((res) => res.json())
