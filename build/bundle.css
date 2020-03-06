@@ -1,0 +1,4 @@
+body{background-color:#1f1e1e;color:white}#apptitle{border:1px solid white;font-size:25px;padding:10px 10%}#search{background-color:#1f1e1e;color:white;border:none;border-bottom:1px solid white}#news-articles{list-style-type:none}.card{background-color:rgba(255,255,255,0.13);height:500px}.card:hover{background-color:white;color:black}.article{height:500px;margin-top:10px;margin-bottom:10px;transform:matrix(1, 0.01, 0.01, 0.99, 3, 3)}.article-img{height:220px}.article-title{font-size:18px}.article-description{font-size:14px}.article-author{font-size:12px}.article:hover{transform:matrix(1, 0, 0, 1, 2.5, 2.5)}
+
+
+/*# sourceMappingURL=bundle.css.map*/
